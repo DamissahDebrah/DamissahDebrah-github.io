@@ -2,7 +2,7 @@
 
 Welcome to my personal data analytics portfolio — a showcase of projects, dashboards, and insights that reflect my journey and skills in the field of data analytics.
 
-🔗 **Live Website**: [Visit Portfolio](https://DamissahDebrah.github.io)
+🔗 **Live Website**: [Visit Portfolio](https://damissahdebrah.github.io/DamissahDebrah-github.io/)
 
 ---
 
